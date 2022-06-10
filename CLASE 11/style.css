@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.topBottomBar{
+    background-color: #222222 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #F3F3F3;
+    padding: 15px;
+    box-shadow: 0px 2px 2px #b2b2b2;
+}
+
+.menu{
+    display: flex;
+}
+
+.pizzaFront{
+    display: flex;
+    align-items: center;
+}
+
+p, h1{
+    margin: 15px;
+}
+
+.red{
+    color: #FC200C;
+}
+
+.green{
+    color: #39B24A;
+}
+
+.white{
+    color: #F3F3F3;
+}
+
+.divContenedor{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 125px 0;
+}
+
+.divCard{
+    width: 490px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 5px;
+    justify-content: space-around;
+}
+
+.envio{
+    position: absolute; 
+    top: 260px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.divContentTop5{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+.divTop5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer{
+    height: 150px;
+}
+
+.footerPizzaFront{
+    font-size: 20px;
+}

@@ -1,0 +1,58 @@
+
+body{
+    height: 100%;
+}
+
+
+.logo{
+    text-align: center;
+}
+
+.titulo{
+    background-color: #C4C4C4 ;
+    color: #005677;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.tamanio-div{
+    height: 120px;
+}
+
+.oblique{
+    font-style: oblique;
+    
+}
+
+.bold{
+    font-weight: bold
+}
+
+.tab {
+    padding-left:5em
+}
+
+.margin{
+    margin-left: 15px;
+}
+
+.footer{
+    text-align: center;
+    background-color: #005677;
+    color: white;
+    margin-top: 120px
+}
+
+.div-footer{
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-footer{
+    margin-left: 20px;
+}
